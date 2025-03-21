@@ -39,11 +39,11 @@
             </ul>
 
             <!-- Bottom Section -->
-            <div class="p-2 border-t border-blue-700">
-                <a href="#" class="flex items-center p-3 hover:bg-blue-700 rounded">
-                    <i class="fas fa-cog mr-3"></i>Settings
-                </a>
-            </div>
+{{--            <div class="p-2 border-t border-blue-700">--}}
+{{--                <a href="#" class="flex items-center p-3 hover:bg-blue-700 rounded">--}}
+{{--                    <i class="fas fa-cog mr-3"></i>Settings--}}
+{{--                </a>--}}
+{{--            </div>--}}
         </div>
     </nav>
 
